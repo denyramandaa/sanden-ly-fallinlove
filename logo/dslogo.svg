@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="black" stroke-width="3">
+  <circle cx="100" cy="100" r="90" />
+  
+  <!-- Detailed Initial D -->
+  <path d="M 55 130 C 55 70, 95 70, 95 130 C 95 170, 55 170, 55 130 Z" />
+  <path d="M 65 125 C 65 85, 85 85, 85 125 C 85 155, 65 155, 65 125 Z" />
+  
+  <!-- Detailed Initial S -->
+  <path d="M 130 70 C 110 70, 110 90, 130 90 C 150 90, 150 110, 130 110 C 110 110, 110 130, 130 130" />
+
+  <!-- Ornamental Decorations -->
+  <path d="M 50 30 C 70 10, 130 10, 150 30" />
+  <path d="M 50 170 C 70 190, 130 190, 150 170" />
+  
+  <!-- Floral Ornaments -->
+  <circle cx="30" cy="50" r="3" />
+  <circle cx="170" cy="50" r="3" />
+  <circle cx="30" cy="150" r="3" />
+  <circle cx="170" cy="150" r="3" />
+
+  <!-- Swirls -->
+  <path d="M 80 40 C 85 35, 95 35, 100 40" />
+  <path d="M 100 160 C 105 165, 115 165, 120 160" />
+</svg>
